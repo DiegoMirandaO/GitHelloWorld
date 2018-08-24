@@ -1,1 +1,2 @@
-Hello World Git
+Hello World Git!
+Git and GitHub
